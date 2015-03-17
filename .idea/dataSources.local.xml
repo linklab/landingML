@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - test?zeroDateTimeBehavior=convertToNull&amp;characterEncoding=utf8&amp;useUnicode=true&amp;mysqlEncoding=utf8&amp;allowMultiQueries=true@localhost" uuid="a02b54ac-9362-457c-8d94-405120ecf18b">
+      <secret-storage>master_key</secret-storage>
+      <user-name>test</user-name>
+      <schema-pattern>test.*</schema-pattern>
+      <default-schemas>test.*</default-schemas>
+    </data-source>
+    <data-source name="config" uuid="34f75f31-9065-457e-b28f-6cb00c6d1066">
+      <user-name>test</user-name>
+      <user-password>dfdedfcfdfd9dfdedf9bdf98df99df9e</user-password>
+      <schema-pattern>test.*</schema-pattern>
+      <default-schemas>test.*</default-schemas>
+    </data-source>
+    <data-source name="dataSource" uuid="ae778bbb-a265-4d38-a952-2bcbe2d8cccb">
+      <first-sync>true</first-sync>
+      <user-name>jdbc:mysql://localhost:3306/testdb?zeroDateTimeBehavior=convertToNull&amp;characterEncoding=utf8&amp;useUnicode=true&amp;mysqlEncoding=utf8&amp;allowMultiQueries=true//localhost:3306/testdb?zeroDateTimeBehavior=convertToNull&amp;characterEncoding=utf8&amp;useUnicode=true&amp;mysqlEncoding=utf8&amp;allowMultiQueries=true</user-name>
+      <user-password>dfdedfcfdfd9dfde</user-password>
+    </data-source>
+  </component>
+</project>
