@@ -18,7 +18,9 @@
     </option>
     <envs />
     <patterns />
+    <RunnerSettings RunnerId="JRebel Executor" />
     <RunnerSettings RunnerId="Run" />
+    <ConfigurationWrapper RunnerId="JRebel Executor" />
     <ConfigurationWrapper RunnerId="Run" />
     <method />
   </configuration>
