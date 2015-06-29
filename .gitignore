@@ -10,3 +10,7 @@ Thumbs.db
 /src/main/resources/dev/config.properties
 /src/main/resources/dev/log4j.xml
 /src/main/java/rebel.xml
+myspring.iml
+misc.xml
+rebel_project.xml
+workspace.xml

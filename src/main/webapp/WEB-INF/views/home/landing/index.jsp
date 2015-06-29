@@ -608,6 +608,7 @@
     </div>
 </div>
 <!-- Prices block END -->
+
 <!-- BEGIN PRE-FOOTER -->
 <div class="pre-footer" id="contact">
     <div class="container">
