@@ -52,6 +52,7 @@
     <link href="${resources}/onepage/css/themes/blue.css" rel="stylesheet" id="style-color">
     <link href="${resources}/css/jquery-ui.css" rel="stylesheet" type="text/css"/>
     <link href="${resources}/onepage/css/custom.css" rel="stylesheet">
+    
     <!-- Theme styles END -->
     <style>
         .cubeCheckList {
@@ -608,6 +609,7 @@
     </div>
 </div>
 <!-- Prices block END -->
+
 <!-- BEGIN PRE-FOOTER -->
 <div class="pre-footer" id="contact">
     <div class="container">
