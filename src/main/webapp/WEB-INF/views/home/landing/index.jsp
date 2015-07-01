@@ -129,7 +129,7 @@
                          data-endspeed="600"
                          data-endeasing="Power0.easeIn"
                          style="z-index: 3">
-                        <spring:message code="landing.slider.message.1"/>
+                        <spring:message code="landing.slider.message.1"/>!!!
                     </div>
                     <div class="tp-caption medium_text_shadow slide_desc slide_item_left landingSliderMessage1_2"
                          data-x="center"
@@ -622,6 +622,22 @@
                 <address class="no-top-space">
                     <spring:message code="signin.email"/>: <a href="mailto:support@manuscriptlink.com">support@manuscriptlink.com</a>
                 </address>
+                <div class="row" style="margin-top: -20px !important;">
+                    <ul class="social-icons margin-bottom-10" style="margin-left: 15px !important;">
+                        <li>
+                            <a href="https://www.facebook.com/manuscriptlink" data-original-title="facebook" class="facebook">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.linkedin.com/company/manuscriptlink" data-original-title="linkedin" class="linkedin">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://plus.google.com/u/0/103634515184521789406" data-original-title="Google Plus" class="googleplus">
+                            </a>
+                        </li>
+                    </ul>
+                </div>
 <%--                <div class="row">
                     <div class="col-md-6">
                         <h4><img alt="" src="${resources}/metronic_assets_3.3.0/img/flags/kr.png" width="16px" style="margin-top: -4px !important;"/> Republic of Korea</h4>
