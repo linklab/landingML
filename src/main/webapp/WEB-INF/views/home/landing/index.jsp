@@ -609,6 +609,7 @@
 </div>
 <!-- Prices block END -->
 
+<<<<<<< HEAD
 
 
 <!-- FAQ block BEGIN-->
@@ -985,6 +986,50 @@
                             </div>
                         </div>
                         <!-- END PAGE CONTENT-->
+=======
+<!-- BEGIN PRE-FOOTER -->
+<div class="pre-footer" id="contact">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-sm-6 pre-footer-col">
+                <h2><spring:message code="system.aboutus"/></h2>
+                <h4><spring:message code="system.thinkonweb"/></h4>
+                <p><spring:message code="about.p1"/></p>
+            </div>
+            <div class="col-md-6 col-sm-6 pre-footer-col">
+                <h2><spring:message code="system.contactus"/></h2>
+                <address class="no-top-space">
+                    <spring:message code="signin.email"/>: <a href="mailto:support@manuscriptlink.com">support@manuscriptlink.com</a>
+                </address>
+                <div class="row" style="margin-top: -20px !important;">
+                    <ul class="social-icons margin-bottom-10" style="margin-left: 15px !important;">
+                        <li>
+                            <a href="https://www.facebook.com/manuscriptlink" data-original-title="facebook" class="facebook">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.linkedin.com/company/manuscriptlink" data-original-title="linkedin" class="linkedin">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://plus.google.com/u/0/103634515184521789406" data-original-title="Google Plus" class="googleplus">
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+<%--                <div class="row">
+                    <div class="col-md-6">
+                        <h4><img alt="" src="${resources}/metronic_assets_3.3.0/img/flags/kr.png" width="16px" style="margin-top: -4px !important;"/> Republic of Korea</h4>
+                        <address class="no-top-space">
+                            <spring:message code="system.companyKoreaAddress"/>
+                        </address>
+                    </div>
+                    <div class="col-md-6">
+                        <h4><img alt="" src="${resources}/metronic_assets_3.3.0/img/flags/us.png" width="16px" style="margin-top: -4px !important;"/> USA</h4>
+                        <address class="no-top-space">
+                            <spring:message code="system.companyUSAAddress"/>
+                        </address>
+>>>>>>> d10fd0bbfa98b6a29636cec7c1ad218ef302cd32
                     </div>
                 </div>
                 <!-- END CONTENT -->
