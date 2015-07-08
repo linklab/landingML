@@ -11,6 +11,7 @@ Thumbs.db
 /src/main/resources/dev/log4j.xml
 /src/main/java/rebel.xml
 .idea/*
+.idea/*
 myspring.iml
 misc.xml
 rebel_project.xml
