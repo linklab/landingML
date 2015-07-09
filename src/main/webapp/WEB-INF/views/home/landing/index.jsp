@@ -347,7 +347,7 @@
                 <!-- Wrapper for slides -->
                 <div class="carousel-inner cellCenter">
                     <div class="item active">
-                        <a href="${resources}/onepage/img/screenshots_new/manager_01.PNG" class="zoom valign-center">
+                        <a href="${resources}/onepage/img/" class="zoom valign-center">
                             <img data-src="${resources}/onepage/img/screenshots/manager_1s.png" alt="..." class="inner-item" />
                         </a>
                     </div>
