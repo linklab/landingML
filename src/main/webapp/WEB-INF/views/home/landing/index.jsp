@@ -341,11 +341,13 @@
                     <li data-target="#management-carousel" data-slide-to="2"></li>
                     <li data-target="#management-carousel" data-slide-to="3"></li>
                     <li data-target="#management-carousel" data-slide-to="4"></li>
+                    <li data-target="#management-carousel" data-slide-to="5"></li>
+                    <li data-target="#management-carousel" data-slide-to="6"></li>
                 </ol>
                 <!-- Wrapper for slides -->
                 <div class="carousel-inner cellCenter">
                     <div class="item active">
-                        <a href="${resources}/onepage/img/screenshots/manager_1.png" class="zoom valign-center">
+                        <a href="${resources}/onepage/img/screenshots_new/manager_01.PNG" class="zoom valign-center">
                             <img data-src="${resources}/onepage/img/screenshots/manager_1s.png" alt="..." class="inner-item" />
                         </a>
                     </div>
@@ -362,6 +364,16 @@
                     <div class="item">
                         <a href="${resources}/onepage/img/screenshots/manager_4.png" class="zoom valign-center">
                             <img data-src="${resources}/onepage/img/screenshots/manager_4s.png" alt="..." class="inner-item" />
+                        </a>
+                    </div>
+                    <div class="item">
+                        <a href="${resources}/onepage/img/screenshots/manager_5.png" class="zoom valign-center">
+                            <img data-src="${resources}/onepage/img/screenshots/manager_5s.png" alt="..." class="inner-item" />
+                        </a>
+                    </div>
+                    <div class="item">
+                        <a href="${resources}/onepage/img/screenshots/manager_5.png" class="zoom valign-center">
+                            <img data-src="${resources}/onepage/img/screenshots/manager_5s.png" alt="..." class="inner-item" />
                         </a>
                     </div>
                     <div class="item">
@@ -387,6 +399,8 @@
                     <li data-target="#editorship-carousel" data-slide-to="2"></li>
                     <li data-target="#editorship-carousel" data-slide-to="3"></li>
                     <li data-target="#editorship-carousel" data-slide-to="4"></li>
+                    <li data-target="#editorship-carousel" data-slide-to="5"></li>
+                    <li data-target="#editorship-carousel" data-slide-to="6"></li>
                 </ol>
                 <!-- Wrapper for slides -->
                 <div class="carousel-inner cellCenter">
@@ -415,6 +429,16 @@
                             <img data-src="${resources}/onepage/img/screenshots/editorial_5s.png" alt="..." class="inner-item" />
                         </a>
                     </div>
+                    <div class="item">
+                        <a href="${resources}/onepage/img/screenshots/editorial_5.png" class="zoom valign-center">
+                            <img data-src="${resources}/onepage/img/screenshots/editorial_5s.png" alt="..." class="inner-item" />
+                        </a>
+                    </div>
+                    <div class="item">
+                        <a href="${resources}/onepage/img/screenshots/editorial_5.png" class="zoom valign-center">
+                            <img data-src="${resources}/onepage/img/screenshots/editorial_5s.png" alt="..." class="inner-item" />
+                        </a>
+                    </div>
                 </div>
                 <!-- Controls -->
                 <a class="left carousel-control" href="#editorship-carousel" role="button" data-slide="prev">
@@ -433,6 +457,8 @@
                     <li data-target="#submission-carousel" data-slide-to="2"></li>
                     <li data-target="#submission-carousel" data-slide-to="3"></li>
                     <li data-target="#submission-carousel" data-slide-to="4"></li>
+                    <li data-target="#submission-carousel" data-slide-to="5"></li>
+                    <li data-target="#submission-carousel" data-slide-to="6"></li>
                 </ol>
                 <!-- Wrapper for slides -->
                 <div class="carousel-inner cellCenter">
@@ -461,6 +487,16 @@
                             <img data-src="${resources}/onepage/img/screenshots/submission_5s.png" alt="..." class="inner-item" />
                         </a>
                     </div>
+                    <div class="item">
+                        <a href="${resources}/onepage/img/screenshots/submission_5.png" class="zoom valign-center">
+                            <img data-src="${resources}/onepage/img/screenshots/submission_5s.png" alt="..." class="inner-item" />
+                        </a>
+                    </div>
+                    <div class="item">
+                        <a href="${resources}/onepage/img/screenshots/submission_5.png" class="zoom valign-center">
+                            <img data-src="${resources}/onepage/img/screenshots/submission_5s.png" alt="..." class="inner-item" />
+                        </a>
+                    </div>
                 </div>
                 <!-- Controls -->
                 <a class="left carousel-control" href="#submission-carousel" role="button" data-slide="prev">
@@ -477,6 +513,10 @@
                     <li data-target="#review-carousel" data-slide-to="0" class="active"></li>
                     <li data-target="#review-carousel" data-slide-to="1"></li>
                     <li data-target="#review-carousel" data-slide-to="2"></li>
+                    <li data-target="#review-carousel" data-slide-to="3"></li>
+                    <li data-target="#review-carousel" data-slide-to="4"></li>
+                    <li data-target="#review-carousel" data-slide-to="5"></li>
+                    <li data-target="#review-carousel" data-slide-to="6"></li>
                 </ol>
                 <!-- Wrapper for slides -->
                 <div class="carousel-inner cellCenter">
@@ -488,6 +528,26 @@
                     <div class="item">
                         <a href="${resources}/onepage/img/screenshots/review_2.png" class="zoom valign-center">
                             <img data-src="${resources}/onepage/img/screenshots/review_2s.png" alt="..." class="inner-item" />
+                        </a>
+                    </div>
+                    <div class="item">
+                        <a href="${resources}/onepage/img/screenshots/review_3.png" class="zoom valign-center">
+                            <img data-src="${resources}/onepage/img/screenshots/review_3s.png" alt="..." class="inner-item" />
+                        </a>
+                    </div>
+                    <div class="item">
+                        <a href="${resources}/onepage/img/screenshots/review_3.png" class="zoom valign-center">
+                            <img data-src="${resources}/onepage/img/screenshots/review_3s.png" alt="..." class="inner-item" />
+                        </a>
+                    </div>
+                    <div class="item">
+                        <a href="${resources}/onepage/img/screenshots/review_3.png" class="zoom valign-center">
+                            <img data-src="${resources}/onepage/img/screenshots/review_3s.png" alt="..." class="inner-item" />
+                        </a>
+                    </div>
+                    <div class="item">
+                        <a href="${resources}/onepage/img/screenshots/review_3.png" class="zoom valign-center">
+                            <img data-src="${resources}/onepage/img/screenshots/review_3s.png" alt="..." class="inner-item" />
                         </a>
                     </div>
                     <div class="item">
