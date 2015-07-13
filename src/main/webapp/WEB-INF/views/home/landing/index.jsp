@@ -347,38 +347,38 @@
                 <!-- Wrapper for slides -->
                 <div class="carousel-inner cellCenter">
                     <div class="item active">
-                        <a href="/resources/images/screenshots_new/manager_01.PNG" class="zoom valign-center">
-                            <img data-src="/resources/images/screenshots_new/manager_01s.PNG" alt="..." class="inner-item" />
+                        <a href="/resources/images/screenshots_new/manager_01.png" class="zoom valign-center">
+                            <img data-src="/resources/images/screenshots_new/manager_01s.png" alt="..." class="inner-item" />
                         </a>
                     </div>
                     <div class="item">
-                        <a href="/resources/onepage/img/screenshots/manager_2.png" class="zoom valign-center">
-                            <img data-src="/resources/onepage/img/screenshots/manager_2s.png" alt="..." class="inner-item" />
+                        <a href="/resources/images/screenshots_new/manager_02.png" class="zoom valign-center">
+                            <img data-src="/resources/images/screenshots_new/manager_02s.png" alt="..." class="inner-item" />
                         </a>
                     </div>
                     <div class="item">
-                        <a href="/resources/onepage/img/screenshots/manager_3.png" class="zoom valign-center">
-                            <img data-src="/resources/onepage/img/screenshots/manager_3s.png" alt="..." class="inner-item" />
+                        <a href="/resources/images/screenshots_new/manager_03.png" class="zoom valign-center">
+                            <img data-src="/resources/images/screenshots_new/manager_03s.png" alt="..." class="inner-item" />
                         </a>
                     </div>
                     <div class="item">
-                        <a href="/resources/onepage/img/screenshots/manager_4.png" class="zoom valign-center">
-                            <img data-src="/resources/onepage/img/screenshots/manager_4s.png" alt="..." class="inner-item" />
+                        <a href="/resources/images/screenshots_new/manager_04.png" class="zoom valign-center">
+                            <img data-src="/resources/images/screenshots_new/manager_04s.png" alt="..." class="inner-item" />
                         </a>
                     </div>
                     <div class="item">
-                        <a href="/resources/onepage/img/screenshots/manager_5.png" class="zoom valign-center">
-                            <img data-src="/resources/onepage/img/screenshots/manager_5s.png" alt="..." class="inner-item" />
+                        <a href="/resources/images/screenshots_new/manager_05.png" class="zoom valign-center">
+                            <img data-src="/resources/images/screenshots_new/manager_05s.png" alt="..." class="inner-item" />
                         </a>
                     </div>
                     <div class="item">
-                        <a href="/resources/onepage/img/screenshots/manager_5.png" class="zoom valign-center">
-                            <img data-src="/resources/onepage/img/screenshots/manager_5s.png" alt="..." class="inner-item" />
+                        <a href="/resources/images/screenshots_new/manager_06.png" class="zoom valign-center">
+                            <img data-src="/resources/images/screenshots_new/manager_06s.png" alt="..." class="inner-item" />
                         </a>
                     </div>
                     <div class="item">
-                        <a href="/resources/onepage/img/screenshots/manager_5.png" class="zoom valign-center">
-                            <img data-src="/resources/onepage/img/screenshots/manager_5s.png" alt="..." class="inner-item" />
+                        <a href="/resources/images/screenshots_new/manager_07.png" class="zoom valign-center">
+                            <img data-src="/resources/images/screenshots_new/manager_07s.png" alt="..." class="inner-item" />
                         </a>
                     </div>
                 </div>
@@ -405,38 +405,38 @@
                 <!-- Wrapper for slides -->
                 <div class="carousel-inner cellCenter">
                     <div class="item active">
-                        <a href="/resources/onepage/img/screenshots/editorial_1.png" class="zoom valign-center">
-                            <img data-src="/resources/onepage/img/screenshots/editorial_1s.png" alt="..." class="inner-item" />
+                        <a href="/resources/images/screenshots_new/editor_01.png" class="zoom valign-center">
+                            <img data-src="/resources/images/screenshots_new/editor_01s.png" alt="..." class="inner-item" />
                         </a>
                     </div>
                     <div class="item">
-                        <a href="/resources/onepage/img/screenshots/editorial_2.png" class="zoom valign-center">
-                            <img data-src="/resources/onepage/img/screenshots/editorial_2s.png" alt="..." class="inner-item" />
+                        <a href="/resources/images/screenshots_new/editor_02.png" class="zoom valign-center">
+                            <img data-src="/resources/images/screenshots_new/editor_02s.png" alt="..." class="inner-item" />
                         </a>
                     </div>
                     <div class="item">
-                        <a href="/resources/onepage/img/screenshots/editorial_3.png" class="zoom valign-center">
-                            <img data-src="/resources/onepage/img/screenshots/editorial_3s.png" alt="..." class="inner-item" />
+                        <a href="/resources/images/screenshots_new/editor_03.png" class="zoom valign-center">
+                            <img data-src="/resources/images/screenshots_new/editor_03s.png" alt="..." class="inner-item" />
                         </a>
                     </div>
                     <div class="item">
-                        <a href="/resources/onepage/img/screenshots/editorial_4.png" class="zoom valign-center">
-                            <img data-src="/resources/onepage/img/screenshots/editorial_4s.png" alt="..." class="inner-item" />
+                        <a href="/resources/images/screenshots_new/editor_04.png" class="zoom valign-center">
+                            <img data-src="/resources/images/screenshots_new/editor_04s.png" alt="..." class="inner-item" />
                         </a>
                     </div>
                     <div class="item">
-                        <a href="/resources/onepage/img/screenshots/editorial_5.png" class="zoom valign-center">
-                            <img data-src="/resources/onepage/img/screenshots/editorial_5s.png" alt="..." class="inner-item" />
+                        <a href="/resources/images/screenshots_new/editor_05.png" class="zoom valign-center">
+                            <img data-src="/resources/images/screenshots_new/editor_05s.png" alt="..." class="inner-item" />
                         </a>
                     </div>
                     <div class="item">
-                        <a href="/resources/onepage/img/screenshots/editorial_5.png" class="zoom valign-center">
-                            <img data-src="/resources/onepage/img/screenshots/editorial_5s.png" alt="..." class="inner-item" />
+                        <a href="/resources/images/screenshots_new/editor_06.png" class="zoom valign-center">
+                            <img data-src="/resources/images/screenshots_new/editor_06s.png" alt="..." class="inner-item" />
                         </a>
                     </div>
                     <div class="item">
-                        <a href="/resources/onepage/img/screenshots/editorial_5.png" class="zoom valign-center">
-                            <img data-src="/resources/onepage/img/screenshots/editorial_5s.png" alt="..." class="inner-item" />
+                        <a href="/resources/images/screenshots_new/editor_07.png" class="zoom valign-center">
+                            <img data-src="/resources/images/screenshots_new/editor_07s.png" alt="..." class="inner-item" />
                         </a>
                     </div>
                 </div>
@@ -463,38 +463,38 @@
                 <!-- Wrapper for slides -->
                 <div class="carousel-inner cellCenter">
                     <div class="item active">
-                        <a href="/resources/onepage/img/screenshots/submission_1.png" class="zoom valign-center">
-                            <img data-src="/resources/onepage/img/screenshots/submission_1s.png" alt="..." class="inner-item" />
+                        <a href="/resources/images/screenshots_new/Author_01.png" class="zoom valign-center">
+                            <img data-src="/resources/images/screenshots_new/Author_01s.png" alt="..." class="inner-item" />
                         </a>
                     </div>
                     <div class="item">
-                        <a href="/resources/onepage/img/screenshots/submission_2.png" class="zoom valign-center">
-                            <img data-src="/resources/onepage/img/screenshots/submission_2s.png" alt="..." class="inner-item" />
+                        <a href="/resources/images/screenshots_new/Author_02.png" class="zoom valign-center">
+                            <img data-src="/resources/images/screenshots_new/Author_02s.png" alt="..." class="inner-item" />
                         </a>
                     </div>
                     <div class="item">
-                        <a href="/resources/onepage/img/screenshots/submission_3.png" class="zoom valign-center">
-                            <img data-src="/resources/onepage/img/screenshots/submission_3s.png" alt="..." class="inner-item" />
+                        <a href="/resources/images/screenshots_new/Author_03.png" class="zoom valign-center">
+                            <img data-src="/resources/images/screenshots_new/Author_03s.png" alt="..." class="inner-item" />
                         </a>
                     </div>
                     <div class="item">
-                        <a href="/resources/onepage/img/screenshots/submission_4.png" class="zoom valign-center">
-                            <img data-src="/resources/onepage/img/screenshots/submission_4s.png" alt="..." class="inner-item" />
+                        <a href="/resources/images/screenshots_new/Author_04.png" class="zoom valign-center">
+                            <img data-src="/resources/images/screenshots_new/Author_04s.png" alt="..." class="inner-item" />
                         </a>
                     </div>
                     <div class="item">
-                        <a href="/resources/onepage/img/screenshots/submission_5.png" class="zoom valign-center">
-                            <img data-src="/resources/onepage/img/screenshots/submission_5s.png" alt="..." class="inner-item" />
+                        <a href="/resources/images/screenshots_new/Author_05.png" class="zoom valign-center">
+                            <img data-src="/resources/images/screenshots_new/Author_05s.png" alt="..." class="inner-item" />
                         </a>
                     </div>
                     <div class="item">
-                        <a href="/resources/onepage/img/screenshots/submission_5.png" class="zoom valign-center">
-                            <img data-src="/resources/onepage/img/screenshots/submission_5s.png" alt="..." class="inner-item" />
+                        <a href="/resources/images/screenshots_new/Author_06.png" class="zoom valign-center">
+                            <img data-src="/resources/images/screenshots_new/Author_06s.png" alt="..." class="inner-item" />
                         </a>
                     </div>
                     <div class="item">
-                        <a href="/resources/onepage/img/screenshots/submission_5.png" class="zoom valign-center">
-                            <img data-src="/resources/onepage/img/screenshots/submission_5s.png" alt="..." class="inner-item" />
+                        <a href="/resources/images/screenshots_new/Author_07.png" class="zoom valign-center">
+                            <img data-src="/resources/images/screenshots_new/Author_07s.png" alt="..." class="inner-item" />
                         </a>
                     </div>
                 </div>
@@ -521,38 +521,38 @@
                 <!-- Wrapper for slides -->
                 <div class="carousel-inner cellCenter">
                     <div class="item active">
-                        <a href="/resources/onepage/img/screenshots/review_1.png" class="zoom valign-center">
-                            <img data-src="/resources/onepage/img/screenshots/review_1s.png" alt="..." class="inner-item" />
+                        <a href="/resources/images/screenshots_new/reviewer_01.png" class="zoom valign-center">
+                            <img data-src="/resources/images/screenshots_new/reviewer_01s.png" alt="..." class="inner-item" />
                         </a>
                     </div>
                     <div class="item">
-                        <a href="/resources/onepage/img/screenshots/review_2.png" class="zoom valign-center">
-                            <img data-src="/resources/onepage/img/screenshots/review_2s.png" alt="..." class="inner-item" />
+                        <a href="/resources/images/screenshots_new/reviewer_02.png" class="zoom valign-center">
+                            <img data-src="/resources/images/screenshots_new/reviewer_02s.png" alt="..." class="inner-item" />
                         </a>
                     </div>
                     <div class="item">
-                        <a href="/resources/onepage/img/screenshots/review_3.png" class="zoom valign-center">
-                            <img data-src="/resources/onepage/img/screenshots/review_3s.png" alt="..." class="inner-item" />
+                        <a href="/resources/images/screenshots_new/reviewer_03.png" class="zoom valign-center">
+                            <img data-src="/resources/images/screenshots_new/reviewer_03s.png" alt="..." class="inner-item" />
                         </a>
                     </div>
                     <div class="item">
-                        <a href="/resources/onepage/img/screenshots/review_3.png" class="zoom valign-center">
-                            <img data-src="/resources/onepage/img/screenshots/review_3s.png" alt="..." class="inner-item" />
+                        <a href="/resources/images/screenshots_new/reviewer_04.png" class="zoom valign-center">
+                            <img data-src="/resources/images/screenshots_new/reviewer_04s.png" alt="..." class="inner-item" />
                         </a>
                     </div>
                     <div class="item">
-                        <a href="/resources/onepage/img/screenshots/review_3.png" class="zoom valign-center">
-                            <img data-src="/resources/onepage/img/screenshots/review_3s.png" alt="..." class="inner-item" />
+                        <a href="/resources/images/screenshots_new/reviewer_05.png" class="zoom valign-center">
+                            <img data-src="/resources/images/screenshots_new/reviewer_05s.png" alt="..." class="inner-item" />
                         </a>
                     </div>
                     <div class="item">
-                        <a href="/resources/onepage/img/screenshots/review_3.png" class="zoom valign-center">
-                            <img data-src="/resources/onepage/img/screenshots/review_3s.png" alt="..." class="inner-item" />
+                        <a href="/resources/images/screenshots_new/reviewer_06.png" class="zoom valign-center">
+                            <img data-src="/resources/images/screenshots_new/reviewer_06s.png" alt="..." class="inner-item" />
                         </a>
                     </div>
                     <div class="item">
-                        <a href="/resources/onepage/img/screenshots/review_3.png" class="zoom valign-center">
-                            <img data-src="/resources/onepage/img/screenshots/review_3s.png" alt="..." class="inner-item" />
+                        <a href="/resources/images/screenshots_new/reviewer_06.png" class="zoom valign-center">
+                            <img data-src="/resources/images/screenshots_new/reviewer_06s.png" alt="..." class="inner-item" />
                         </a>
                     </div>
                 </div>
